@@ -12,7 +12,7 @@ print("7. You will respect the privacy and security of all networks and systems 
 
 accept_terms = input("\nDo you accept these terms and conditions? (y/n): ")
 
-if accept_term.lower() != 'y':
+if accept_terms.lower() != 'y':
     print("You must accept the terms and conditions before using this tool.")
     sys.exit()
 
